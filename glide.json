@@ -1,0 +1,18 @@
+[
+  {
+    "kind": "column",
+    "name": "JSON String Formatter",
+    "description": "Converts a JSON string, applies JSONata to extract candidate name and address, and returns a formatted string.",
+    "author": "Your Name <your.email@example.com>",
+    "params": [
+      {
+        "name": "inputString",
+        "displayName": "Input JSON String",
+        "type": "string"
+      }
+    ],
+    "result": {
+      "type": "string"
+    }
+  }
+]
